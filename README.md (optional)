@@ -1,0 +1,8 @@
+# Tap to Earn Server
+
+This is a simple server built with Express.js and MongoDB.
+
+## Getting Started
+1. Install dependencies: `npm install`
+2. Start the server: `npm start`
+3. The server will run on port 5000 by default.
